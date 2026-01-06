@@ -48,5 +48,10 @@ The demo uses the Alpha Vantage API to fetch live stock data and presents it in 
 
 ---
 
+## Demo Screenshot
+![Demo Screenshot](assets/Screenshot.png)
+
+---
+
 ## Notes
 This demo intentionally prioritizes clarity and communication over advanced infrastructure. Production systems would typically include backend services, caching layers, and stronger security controls, which are discussed in the integration documentation.
