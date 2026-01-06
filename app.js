@@ -23,7 +23,7 @@ async function handleFetch() {
 }
 
 async function fetchStockData(symbol) {
-  const API_KEY = "7NBZNPNJRTHIY52D";
+  const API_KEY = "YOUR_API_KEY_HERE";
 
   const url = `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${API_KEY}`;
 
