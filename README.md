@@ -39,6 +39,11 @@ The demo uses the Alpha Vantage API to fetch live stock data and presents it in 
 
 ---
 
+## Live Demo
+🔗 https://finance-api-integration-demo.netlify.app
+
+---
+
 ## Setup Instructions
 1. Clone this repository
 2. Obtain a free API key from Alpha Vantage
